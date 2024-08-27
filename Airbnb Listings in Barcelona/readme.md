@@ -13,7 +13,7 @@ This analysis aims to provide a vision where data and information empower commun
 
 # Preprocessing
 
-*Conducted by Python*
+**Conducted by Python. Please visit the file named `preprocessing.ipynb`.**
 
 - Drop null values
 - Drop unnecessary columns
@@ -35,7 +35,7 @@ This analysis aims to provide a vision where data and information empower commun
 
 # Dashboard
 
-**The Power BI report file is uploaded in this folder**
+**The Power BI report file is uploaded in this folder. Please visit the files named `report`.**
 
 - There are more than **9,700 hosts** with 20,000 accommodations in Barcelona, in which *Superhosts* account for only **21.74%**.
 - Most of accommodations are **serviced apartments.**
